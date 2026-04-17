@@ -1,5 +1,14 @@
-## Erick Anderson dos Santos
-Estudante de Engenharia de Software.
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Erick Anderson dos Santos</h1>
+      <p>Estudante de Engenharia de Software.</p>
+    </td>
+    <td width="25%" align="right">
+      <img src="outer-wilds.gif" width="160px" />
+    </td>
+  </tr>
+</table>
 
 ## Stats
 <div align="center">
@@ -21,4 +30,4 @@ Estudante de Engenharia de Software.
 ## Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-anderson-dos-santos-6a9929352/)
-[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:erick.ads@outlook.com)
+[![Email](
