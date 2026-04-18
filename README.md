@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Erick Anderson dos Santos</h1>
-  <p>Olá! Me chamo Erick, tenho 21 anos, sou estudante de Engenharia de Software e atualmente trabalhando na empresa ASAAS.</p>
+  <p>Olá! Me chamo Erick, tenho 21 anos, sou estudante de Engenharia de Software e atualmente trabalho na empresa ASAAS.</p>
 </div>
 <img src="outer-wilds.png" width="100%" />
 
@@ -9,9 +9,9 @@
 
 ## Estatísticas
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ads-erick&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ads-erick&layout=compact&theme=tokyonight" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ads-erick&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=true&cache_seconds=1800" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ads-erick&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </div>
 
 ## Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-anderson-dos-santos-6a9929352/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ads-erick) [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:erick.ads@outlook.com)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ads-erick) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-anderson-dos-santos-6a9929352/) [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:erick.ads@outlook.com)
