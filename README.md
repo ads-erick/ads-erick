@@ -9,8 +9,8 @@
 
 ## Estatísticas
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ads-erick&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=true&cache_seconds=1800" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ads-erick&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ads-erick&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=ads-erick&theme=tokyonight" />
 </div>
 
 ## Onde me encontrar
