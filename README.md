@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Erick Anderson dos Santos</h1>
-  <p>Olá! Me chamo Erick, tenho 21 anos, sou estudante de Engenharia de Software e atualmente trabalho na empresa ASAAS.</p>
+  <p>Olá! Me chamo Erick, tenho 22 anos, sou estudante de Engenharia de Software e atualmente trabalho na empresa ASAAS.</p>
 </div>
 <img src="outer-wilds.png" width="100%" />
 
