@@ -2,17 +2,19 @@
 
 <img src="outer-wilds.gif" width="100%" alt="Riebeck tocando banjo ao lado da fogueira em Outer Wilds" />
 
-<h1>Hello, Universe! 🪐</h1>
+<h1>Hello, Universe!</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=F28C28&center=true&vCenter=true&width=520&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+no+ASAAS;Explorando+o+universo%2C+um+loop+de+cada+vez" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=9B5DE5&center=true&vCenter=true&width=520&lines=Estudante+de+Engenharia+de+Software;Estagi%C3%A1rio+de+BI+no+Asaas;Automa%C3%A7%C3%B5es+com+n8n+e+Agentes+de+IA;Explorando+o+universo%2C+um+loop+de+cada+vez" alt="Typing SVG" /></a>
 
-<p>Tenho 22 anos, sou estudante de <b>Engenharia de Software</b> e atualmente trabalho no <b>ASAAS</b>.</p>
+<p>Olá! Me chamo Erick, tenho 22 anos e sou estudante de <b>Engenharia de Software</b> na <b>Univille</b>.</p>
+
+<p>Trabalho como <b>Estagiário de Business Intelligence (BI)</b> no <b>Asaas</b>, desenvolvendo automações com <b>n8n</b> com foco em <b>Agentes de IA</b>, e dedico meu tempo livre estudando e evoluindo no desenvolvimento <b>Fullstack</b>.</p>
 
 </div>
 
 ---
 
-### 🛠️ Tecnologias
+<h3 align="center">Tecnologias</h3>
 
 <div align="center">
 <table>
@@ -43,7 +45,7 @@
 </table>
 </div>
 
-### 📡 Onde me encontrar
+<h3 align="center">Onde me encontrar</h3>
 
 <div align="center">
 
