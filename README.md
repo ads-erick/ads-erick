@@ -54,9 +54,3 @@
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:erick.ads@outlook.com)
 
 </div>
-
----
-
-<div align="center">
-  <sub><i>"É o fim do universo… mas ainda dá tempo de assar um marshmallow."</i> 🌌</sub>
-</div>
