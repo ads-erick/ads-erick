@@ -4,7 +4,7 @@
 
 <h1>Hello, Universe!</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=9B5DE5&center=true&vCenter=true&width=520&lines=Estudante+de+Engenharia+de+Software;Estagi%C3%A1rio+de+BI+no+Asaas;Automa%C3%A7%C3%B5es+com+n8n+e+Agentes+de+IA;Explorando+o+universo%2C+um+loop+de+cada+vez" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=9B5DE5&center=true&vCenter=true&width=520&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+no+ASAAS;Explorando+o+universo%2C+um+loop+de+cada+vez" alt="Typing SVG" /></a>
 
 <p>Olá! Me chamo Erick, tenho 22 anos e sou estudante de <b>Engenharia de Software</b> na <b>Univille</b>.</p>
 
