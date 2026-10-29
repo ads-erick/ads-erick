@@ -30,6 +30,7 @@
       <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS3" title="CSS3" />
       <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" title="JavaScript" />
       <img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript" title="TypeScript" />
+      <img src="https://skillicons.dev/icons?i=react" width="48" alt="React" title="React" />
       <img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="Next.js" title="Next.js" />
     </td>
     <td align="center">
