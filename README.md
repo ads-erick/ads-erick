@@ -4,7 +4,7 @@
 
 <h1>Hello, Universe!</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=9B5DE5&center=true&vCenter=true&width=520&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+no+ASAAS;Explorando+o+universo%2C+um+loop+de+cada+vez" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=9B5DE5&center=true&vCenter=true&width=520&lines=Estudante+de+Engenharia+de+Software;Estagi%C3%A1rio+de+BI+no+Asaas;Desenvolvedor+Fullstack;Explorando+o+universo%2C+um+loop+de+cada+vez" alt="Typing SVG" /></a>
 
 <p>Olá! Me chamo Erick, tenho 22 anos e sou estudante de <b>Engenharia de Software</b> na <b>Univille</b>.</p>
 
@@ -29,6 +29,8 @@
       <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML5" title="HTML5" />
       <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS3" title="CSS3" />
       <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" title="JavaScript" />
+      <img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript" title="TypeScript" />
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="Next.js" title="Next.js" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=java" width="48" alt="Java" title="Java" />
@@ -37,6 +39,7 @@
     <td align="center">
       <img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL" title="PostgreSQL" />
       <img src="assets/icons/sqlserver.svg" width="48" alt="SQL Server" title="SQL Server" />
+      <img src="https://skillicons.dev/icons?i=supabase" width="48" alt="Supabase" title="Supabase" />
     </td>
     <td align="center">
       <img src="assets/icons/n8n.svg" width="48" alt="n8n" title="n8n" />
